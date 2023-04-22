@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshiveshh&label=Profile%20views&color=0e75b6&style=flat" alt="theshiveshh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@the_shivesh" target="blank"><img src="https://img.shields.io/twitter/follow/@the_shivesh?logo=twitter&style=for-the-badge" alt="@the_shivesh" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning**
 

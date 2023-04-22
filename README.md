@@ -1,5 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Shivesh Raj</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Shivesh+Raj!;&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate Web developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/Tn0cNfL1kds/maxresdefault.jpg">
 

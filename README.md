@@ -13,7 +13,7 @@
 
 - 👨‍💻 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **shiveshraj8055@gmail.com**
+- 📫 **shiveshraj8055@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

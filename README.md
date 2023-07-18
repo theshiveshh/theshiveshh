@@ -32,3 +32,5 @@ href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theshiveshh&show_icons=true&locale=en" alt="theshiveshh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theshiveshh&" alt="theshiveshh" /></p>
+<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" align='right' width="70" style="margin-right: -50px">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>Thank You! for visiting<br><br><br><br> </div>

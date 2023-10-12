@@ -4,6 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Shivesh+Raj!;&center=true&size=30">
   </a>
 </h1>
+[![wakatime](https://wakatime.com/badge/user/744d2e5b-31fc-41ea-b64a-e25d09aebbf9.svg)](https://wakatime.com/@744d2e5b-31fc-41ea-b64a-e25d09aebbf9)
+
+
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=m0hammadi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
 <h3 align="center">A passionate Web developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/Tn0cNfL1kds/maxresdefault.jpg">
 
